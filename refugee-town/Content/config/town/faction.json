@@ -5,8 +5,8 @@
 		"alignment" : "neutral",
 		"boat" : "boatCastle",
 		"creatureBackground" : {
-			"120px" : "RFGBCKG120.bmp",
-			"130px" : "RFGBCKG130.bmp"
+			"120px" : "RFGBCKG120.png",
+			"130px" : "RFGBCKG130.png"
 		},
 
 		"town" : {
@@ -97,7 +97,7 @@
 			},
 
 			"tavernVideo" : "TAVERN.BIK",
-			"guildBackground" : "TPMAGERFG.bmp",
+			"guildBackground" : "TPMAGERFG.png",
 			"guildSpells" : {
 				"rfgsNamburbi" : 30,
 				"rfgsSiguP" : 30,
@@ -171,7 +171,7 @@
 			},
 
 			"townBackground" : "RFGBCKG.bmp",
-			"guildWindow" : "RFGMAGERF.bmp",
+			"guildWindow" : "RFGMAGERF.png",
 			"buildingsIcons" : "RFGB-thumbnails.def",
 			"hallBackground" : "TpThBRFG.png",
 
@@ -308,22 +308,22 @@
 			"icons" : {
 				"fort" : {
 					"built" : {
-						"large" : "icons/RFGT-FBB.bmp",
-						"small" : "icons/RFGT-FSB.bmp"
+						"large" : "icons/RFGT-FBB.png",
+						"small" : "icons/RFGT-FSB.png"
 					},
 					"normal" : {
-						"large" : "icons/RFGT-FB.bmp",
-						"small" : "icons/RFGT-FS.bmp"
+						"large" : "icons/RFGT-FB.png",
+						"small" : "icons/RFGT-FS.png"
 					}
 				},
 				"village" : {
 					"built" : {
-						"large" : "icons/RFGT-HBB.bmp",
-						"small" : "icons/RFGT-HSB.bmp"
+						"large" : "icons/RFGT-HBB.png",
+						"small" : "icons/RFGT-HSB.png"
 					},
 					"normal" : {
-						"large" : "icons/RFGT-HB.bmp",
-						"small" : "icons/RFGT-HS.bmp"
+						"large" : "icons/RFGT-HB.png",
+						"small" : "icons/RFGT-HS.png"
 					}
 				}
 			},
