@@ -14,8 +14,12 @@
 			"See 'RefugeeTown-Changelog.txt' file inside the mod to see the full changelog. Or go to the VCMI forum on the official thread: https://forum.vcmi.eu/t/new-town-mod-refugee/5002"
 		],
 
-		"v1.29 (22/04/2026)":[	"Upgraded graphics for : Creatures and heroes portraits, specialties and misc. icons."],
-		"v1.28 (02/02/2026)": ["Rolled back old config files to prevent unwanted changes for core:units (ex : Rogue)."],
+		"v1.29 (22/04/2026)" : [
+			"Upgraded graphics for : Creatures and heroes portraits, specialties and misc. icons."
+		],
+		"v1.28 (02/02/2026)" : [
+			"Rolled back old config files to prevent unwanted changes for core:units (ex : Rogue)."
+		],
 		"v1.27 (08/08/2025)" : [
 			"Another update to vcmi-1.7 format"
 		],
