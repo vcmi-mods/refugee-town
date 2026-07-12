@@ -234,7 +234,7 @@
 		"name" : "Réfugiés",
 		"description" : "Réfugiés est une ville créée par Yuya qui s'inspire de la ville neutre de WoG, ainsi que des camps de réfugiés d'Heroes 3. Le point commun de ses créatures est leur non-appartenance aux autres factions. Ainsi, ce château arbore des concepts tels que le nomadisme, les armées hétéroclites et les solutions de fortune. La ville reprend également des éléments des mythologies mésopotamiennes, sumériennes et akkadiennes. Forum officiel VCMI https://forum.vcmi.eu/t/new-town-mod-refugee/5002",
 		"translations" : [
-			"translation/refugee/french.json"
+			"translation/french.json"
 		]
 	},
 
@@ -242,7 +242,7 @@
 		"name" : "边荒",
 		"description" : "边荒的灵感来自WoG的中立城（Neutral）和《英雄无敌III》的难民营，主要兵种基于《英雄无敌III》中的中立生物。因此，这个城镇包含了游牧民族，多种族混编和临时解决方案等等概念，并借鉴了美索不达米亚/苏美尔/阿卡德神话的元素。该模组由Yuya所创作。https://forum.vcmi.eu/t/new-town-mod-refugee/5002",
 		"translations" : [
-			"translation/refugee/chinese.json"
+			"translation/chinese.json"
 		]
 	},
 
@@ -250,21 +250,21 @@
 		"name" : "Flüchtlings-Stadt",
 		"description" : "Flüchtlings-Stadt ist eine von Yuya erschaffene Stadt, die von WoG's Neutral Town und Heroes3's Refugee Camp inspiriert wurde. Der gemeinsame Punkt seiner Kreaturen ist ihre Nicht-Zugehörigkeit zu den anderen Fraktionen. So finden sich in dieser Burg Konzepte wie Nomadentum, bunt zusammengewürfelte Armeen und Behelfslösungen. Die Stadt nimmt auch Elemente aus der mesopotamischen/sumerischen/akkadischen Mythologie auf. Offizielles VCMI-Forum https://forum.vcmi.eu/t/new-town-mod-refugee/5002",
 		"translations" : [
-			"translation/refugee/german.json"
+			"translation/german.json"
 		]
 	},
 	"russian" : {
 		"name" : "Город беженцев",
 		"description" : "Refugee Town — это новый город, созданный Yuya, который черпает вдохновение из Neutral Town из WoG и Refugee Camp из Heroes3. Общей чертой его существ является их непринадлежность к другим фракциям. Таким образом, этот замок воплощает такие концепции, как кочевой образ жизни, разношерстные армии и импровизированные решения. Город также берет элементы из месопотамской/шумерской/аккадской мифологии. Официальный форум VCMI https://forum.vcmi.eu/t/new-town-mod-refugee/5002",
 		"translations" : [
-			"translation/refugee/russian.json"
+			"translation/russian.json"
 		]
 	},
 	"polish" : {
 		"name" : "Enklawa",
 		"description" : "Enklawa to nowa frakcja stworzona przez Yuyę i inspirowana Neutralnym Miastem w WoG oraz obiektem H3 - Obozem Uchodźców. Wspólnym punktem zebranych stworzeń jest brak przynależności do żadnej frakcji. W związku z tym zamysł na miasto wykorzystuje różne koncepty powiązane z wędrówkami stworzeń, różnorodnością gatunkową  oraz prowizorycznymi powiązaniami. W mieście można także odnaleźć inspiracje mitologiami Mezopotamii/Sumerów/Akkadian. Oficjalny temat na forum VCMI https://forum.vcmi.eu/t/new-town-mod-refugee/5002",
 		"translations" : [
-			"translation/refugee/polish.json"
+			"translation/polish.json"
 		]
 	},
 
