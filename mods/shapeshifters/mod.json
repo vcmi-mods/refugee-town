@@ -1,10 +1,6 @@
 {
 	"name" : "Refuge Creature : Shapeshiters (Neutral)",
 	"description" : "This submod adds a brand new neutral creature : Shapeshifter(s). This creature transforms itself into different vanilla creatures. Be careful while attacking a monster in the adventure map.",
-	"czech" : {
-		"name" : "Útočiště – jednotka: Měňavci (neutrální)",
-		"description" : "Tento submod přidává novou neutrální jednotku: měňavce. Tato jednotka se proměňuje v různé původní jednotky, proto buď opatrný při útoku na nestvůry na mapě dobrodružství."
-	},
 	"author" : "Yuya Noboru",
 	"contact" : "yuya.noboru@gmail.com",
 	"version" : "1.26",
@@ -15,5 +11,9 @@
 	"keepDisabled" : false,
 	"creatures" : [
 		"shapeshifterFeral.json"
-	]
+	],
+	"czech" : {
+		"name" : "Útočiště – jednotka: Měňavci (neutrální)",
+		"description" : "Tento submod přidává novou neutrální jednotku: měňavce. Tato jednotka se proměňuje v různé původní jednotky, proto buď opatrný při útoku na nestvůry na mapě dobrodružství."
+	}
 }

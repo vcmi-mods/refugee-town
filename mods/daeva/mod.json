@@ -1,10 +1,6 @@
 {
 	"name" : "Refuge Creature : Daeva",
 	"description" : "This submod adds a new creature bank guarded with genies and efreets. Depending on the number of guards, you might be rewarded with a powerful creature named 'Daeva'.",
-	"czech" : {
-		"name" : "Útočiště – jednotka: Déva",
-		"description" : "Tento submod přidává novou banku jednotek střeženou džiny a efríty. Podle počtu stráží můžeš získat mocnou jednotku zvanou Déva."
-	},
 	"author" : "Yuya Noboru",
 	"contact" : "yuya.noboru@gmail.com",
 	"version" : "1.26",
@@ -15,5 +11,9 @@
 	"keepDisabled" : false,
 	"objects" : [
 		"daevasBank.json"
-	]
+	],
+	"czech" : {
+		"name" : "Útočiště – jednotka: Déva",
+		"description" : "Tento submod přidává novou banku jednotek střeženou džiny a efríty. Podle počtu stráží můžeš získat mocnou jednotku zvanou Déva."
+	}
 }

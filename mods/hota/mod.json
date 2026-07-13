@@ -1,10 +1,6 @@
 {
 	"name" : "Refuge HotA supports",
 	"description" : "Enable this submod if you're playing with the following expansion : Horn of the Abyss.",
-	"czech" : {
-		"name" : "Útočiště – podpora HotA",
-		"description" : "Zapni tento submod, pokud hraješ s rozšířením Horn of the Abyss."
-	},
 	"author" : "Yuya Noboru",
 	"contact" : "yuya.noboru@gmail.com",
 	"version" : "1.26",
@@ -20,5 +16,9 @@
 	"keepDisabled" : false,
 	"spells" : [
 		"RFGS-SteelGolem.json"
-	]
+	],
+	"czech" : {
+		"name" : "Útočiště – podpora HotA",
+		"description" : "Zapni tento submod, pokud hraješ s rozšířením Horn of the Abyss."
+	}
 }

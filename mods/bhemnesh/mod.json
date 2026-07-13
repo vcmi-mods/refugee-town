@@ -1,10 +1,6 @@
 {
 	"name" : "Refuge Heroes : Bhemnesh",
 	"description" : "This submod enable Bhemnesh, a Refuge's hero with a necromancy-like specialty that raises Flesh Golems.",
-	"czech" : {
-		"name" : "Útočiště – hrdina: Bhemnesh",
-		"description" : "Tento submod zpřístupní Bhemneshe, hrdinu Útočiště se specializací podobnou nekromancii, která oživuje padlé nepřátele jako sešité golemy."
-	},
 	"author" : "Yuya Noboru",
 	"contact" : "yuya.noboru@gmail.com",
 	"version" : "1.26",
@@ -15,5 +11,9 @@
 	"keepDisabled" : false,
 	"heroes" : [
 		"RFGH-Bhemnesh.json"
-	]
+	],
+	"czech" : {
+		"name" : "Útočiště – hrdina: Bhemnesh",
+		"description" : "Tento submod zpřístupní Bhemneshe, hrdinu Útočiště se specializací podobnou nekromancii, která oživuje padlé nepřátele jako sešité golemy."
+	}
 }

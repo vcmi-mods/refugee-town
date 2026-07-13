@@ -1,10 +1,6 @@
 {
 	"name" : "Refuge WoG supports",
 	"description" : "Enable this submod if you're playing with the following expansion : In The Wake of Gods.",
-	"czech" : {
-		"name" : "Útočiště – podpora WoG",
-		"description" : "Zapni tento submod, pokud hraješ s rozšířením In The Wake of Gods."
-	},
 	"author" : "Yuya Noboru",
 	"contact" : "yuya.noboru@gmail.com",
 	"version" : "1.26",
@@ -20,5 +16,9 @@
 	"keepDisabled" : true,
 	"creatures" : [
 		"RFGC-stackExperience.json"
-	]
+	],
+	"czech" : {
+		"name" : "Útočiště – podpora WoG",
+		"description" : "Zapni tento submod, pokud hraješ s rozšířením In The Wake of Gods."
+	}
 }
