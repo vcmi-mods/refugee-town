@@ -284,5 +284,19 @@
 	"spell.refugee-town.rfgsSiguP.description.basic" : "{Šigû}\n\nDecreases selected's unit's luck and morale by 1.",
 	"spell.refugee-town.rfgsSiguP.description.expert" : "{Šigû}\n\nReduces the luck and morale of all enemy's units by 2.",
 	"spell.refugee-town.rfgsSiguP.description.none" : "{Šigû}\n\nDecreases selected's unit's luck and morale by 1.",
-	"spell.refugee-town.rfgsSiguP.name" : "Šigû"
+	"spell.refugee-town.rfgsSiguP.name" : "Šigû",
+	"mod.name" : "Refugee Town (Refuge)",
+	"mod.description" : "Refuge is a new town created by Yuya that takes its inspiration from WoG's Neutral Town and Heroes3's Refugee Camp. The common point of its creatures is their nonbelonging to the other factions. Thus, this castle sports concepts such as nomadism, motley armies and makeshift solutions. The town also takes elements from the Mesopotamian/Sumerian/Akkadian mythologies. Official VCMI Forum https://forum.vcmi.eu/t/new-town-mod-refugee/5002",
+	"mod.alternatemusic.name" : "Refuge alternate music theme",
+	"mod.alternatemusic.description" : "Replace the Refugee's town theme with the theme used in version 0.1 - 0.7.",
+	"mod.bhemnesh.name" : "Refuge Heroes : Bhemnesh",
+	"mod.bhemnesh.description" : "This submod enable Bhemnesh, a Refuge's hero with a necromancy-like specialty that raises Flesh Golems.",
+	"mod.daeva.name" : "Refuge Creature : Daeva",
+	"mod.daeva.description" : "This submod adds a new creature bank guarded with genies and efreets. Depending on the number of guards, you might be rewarded with a powerful creature named 'Daeva'.",
+	"mod.hota.name" : "Refuge HotA supports",
+	"mod.hota.description" : "Enable this submod if you're playing with the following expansion : Horn of the Abyss.",
+	"mod.shapeshifters.name" : "Refuge Creature : Shapeshiters (Neutral)",
+	"mod.shapeshifters.description" : "This submod adds a brand new neutral creature : Shapeshifter(s). This creature transforms itself into different vanilla creatures. Be careful while attacking a monster in the adventure map.",
+	"mod.wog.name" : "Refuge WoG supports",
+	"mod.wog.description" : "Enable this submod if you're playing with the following expansion : In The Wake of Gods."
 }
