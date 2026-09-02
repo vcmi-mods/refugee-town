@@ -284,5 +284,19 @@
 	"spell.refugee-town.rfgsSiguP.description.basic": "{Základní nepřízeň osudu}\n\nSníží štěstí a morálku vybraného nepřátelského oddílu o 1.\n",
 	"spell.refugee-town.rfgsSiguP.description.expert": "{Expert nepřízeň osudu}\n\nSníží štěstí a morálku všech nepřátelských oddílů o 2.\n",
 	"spell.refugee-town.rfgsSiguP.description.none": "{Nepřízeň osudu}\n\nSníží štěstí a morálku vybraného nepřátelského oddílu o 1.\n",
-	"spell.refugee-town.rfgsSiguP.name": "Nepřízeň osudu"
+	"spell.refugee-town.rfgsSiguP.name": "Nepřízeň osudu",
+	"mod.name": "Útočiště",
+	"mod.description": "Útočiště je město vytvořené Yuyou, inspirované neutrálním městem z WoG a tábory uprchlíků z Heroes 3. Jeho jednotky spojuje to, že nepatří k ostatním frakcím. Tento hrad proto pracuje s motivy nomádství, pestrých armád a provizorních řešení. Město čerpá také z mezopotámské, sumerské a akkadské mytologie. Oficiální fórum VCMI https://forum.vcmi.eu/t/new-town-mod-refugee/5002",
+	"mod.alternatemusic.name": "Útočiště – alternativní hudba",
+	"mod.alternatemusic.description": "Nahradí hudební motiv města Útočiště motivem používaným ve verzích 0.1–0.7.",
+	"mod.bhemnesh.name": "Útočiště – hrdina: Bhemnesh",
+	"mod.bhemnesh.description": "Tento submod zpřístupní Bhemneshe, hrdinu Útočiště se specializací podobnou nekromancii, která oživuje padlé nepřátele jako sešité golemy.",
+	"mod.daeva.name": "Útočiště – jednotka: Déva",
+	"mod.daeva.description": "Tento submod přidává novou banku jednotek střeženou džiny a efríty. Podle počtu stráží můžeš získat mocnou jednotku zvanou Déva.",
+	"mod.hota.name": "Útočiště – podpora HotA",
+	"mod.hota.description": "Zapni tento submod, pokud hraješ s rozšířením Horn of the Abyss.",
+	"mod.shapeshifters.name": "Útočiště – jednotka: Měňavci (neutrální)",
+	"mod.shapeshifters.description": "Tento submod přidává novou neutrální jednotku: měňavce. Tato jednotka se proměňuje v různé původní jednotky, proto buď opatrný při útoku na nestvůry na mapě dobrodružství.",
+	"mod.wog.name": "Útočiště – podpora WoG",
+	"mod.wog.description": "Zapni tento submod, pokud hraješ s rozšířením In The Wake of Gods."
 }
