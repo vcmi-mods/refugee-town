@@ -40,11 +40,11 @@
 
 		"texts" : {
 			"name" : "Mahyar",
-			"biography" : "Mahyar roams the wilderness with the agility and precision of a true marksman. Raised in the shadows of oppression, her learned the ways of the bow to defend the downtrodden and strike back against tyranny.",
+			"biography" : "Mahyar roams the wilderness with the agility and precision of a true marksman. Raised in the shadow of oppression, he learned the ways of the bow to defend the downtrodden and strike back against tyranny.",
 			"specialty" : {
 				"name" : "Bowmen",
-				"tooltip" : "Creature bonus: Bowmen",
-				"description" : "Increases the Attack and Defense skills of any Bowmen or Sharpshooter for each level attained after 4th level."
+				"tooltip" : "Creature Bonus: Bowmen",
+				"description" : "Increases the Attack and Defense skills of any Bowman or Sharpshooter for each level attained after 4th level."
 			}
 		}
 	}

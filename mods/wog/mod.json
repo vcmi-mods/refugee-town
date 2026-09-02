@@ -5,7 +5,6 @@
 	"contact" : "yuya.noboru@gmail.com",
 	"version" : "1.26",
 	"modType" : "Compatibility",
-
 	"depends" : [
 		"wake-of-gods",
 		"wake-of-gods.creatures",
@@ -17,5 +16,9 @@
 	"keepDisabled" : true,
 	"creatures" : [
 		"RFGC-stackExperience.json"
-	]
+	],
+	"czech" : {
+		"name" : "Útočiště – podpora WoG",
+		"description" : "Zapni tento submod, pokud hraješ s rozšířením In The Wake of Gods."
+	}
 }

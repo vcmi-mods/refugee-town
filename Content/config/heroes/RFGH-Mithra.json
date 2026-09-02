@@ -50,7 +50,7 @@
 			"biography" : "Hidden in woods near the land of Deyja, Mithra combines cunning and sorcery to outmaneuver her foes. Her skills in espionage and manipulation make her a formidable asset to Refuge, striking from the shadows with deadly precision.",
 			"specialty" : {
 				"name" : "Thaumaturges",
-				"tooltip" : "Creature bonus: Thaumaturges",
+				"tooltip" : "Creature Bonus: Thaumaturges",
 				"description" : "Increases the Attack and Defense skills of any Thaumaturge or Enchanter for each level attained after 6th level."
 			}
 		}

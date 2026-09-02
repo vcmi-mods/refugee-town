@@ -46,9 +46,9 @@
 			"name" : "Niusha",
 			"biography" : "Niusha’s childhood was marked by the chains of slavery until the hand of King Shayan granted her freedom. Since then, she has served as a loyal and formidable warrior of Refuge, her loyalty matched only by her prowess in battle. With her past fueling her determination, she stands as a beacon of resilience and strength, a testament to the indomitable spirit of the freed.",
 			"specialty" : {
-				"name" : "Offence",
-				"tooltip" : "Secondary Skill Bonus: Offence",
-				"description" : "Receives a 5% per level bonus to Offence skill."
+				"name" : "Offense",
+				"tooltip" : "Secondary Skill Bonus: Offense",
+				"description" : "Receives a 5% per level bonus to Offense skill."
 			}
 		}
 	}

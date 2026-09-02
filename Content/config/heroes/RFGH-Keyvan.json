@@ -61,8 +61,8 @@
 			"biography" : "Once torn from his kingdom’s grasp by the relentless tides of war, Keyvan found solace in the unity forged with Shayan, as they embarked on their quest to rebuild. Their bond as brothers serving as the bedrock upon which their kingdom flourishes. Most believe he can control the course of battles with a flick of his wrist.",
 			"specialty" : {
 				"name" : "Alkephobos",
-				"tooltip" : "Spells Bonuses: Šigû & Namburbi",
-				"description" : "Keyvan can casts the Namburbi and Šigû spells at expert level."
+				"tooltip" : "Spell Bonus: Šigû & Namburbi",
+				"description" : "Keyvan can cast the Namburbi and Šigû spells at expert level."
 			}
 		}
 	}

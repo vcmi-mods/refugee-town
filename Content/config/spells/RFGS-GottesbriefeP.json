@@ -68,15 +68,15 @@
 			},
 
 			"none" : {
-				"description" : "{Šigû}\n\nDecreases selected's unit's luck and morale by 1."
+				"description" : "{Šigû}\n\nReduces the luck and morale of the selected enemy unit by 1."
 			},
 
 			"basic" : {
-				"description" : "{Šigû}\n\nDecreases selected's unit's luck and morale by 1."
+				"description" : "{Basic Šigû}\n\nReduces the luck and morale of the selected enemy unit by 1."
 			},
 
 			"advanced" : {
-				"description" : "{Šigû}\n\nDecreases selected's unit's luck and morale by 2.",
+				"description" : "{Advanced Šigû}\n\nReduces the luck and morale of the selected enemy unit by 2.",
 				"effects" : {
 					"luck" : {
 						"val" : -2
@@ -88,7 +88,7 @@
 			},
 
 			"expert" : {
-				"description" : "{Šigû}\n\nReduces the luck and morale of all enemy's units by 2.",
+				"description" : "{Expert Šigû}\n\nReduces the luck and morale of all enemy units by 2.",
 				"range" : "X",
 				"effects" : {
 					"luck" : {

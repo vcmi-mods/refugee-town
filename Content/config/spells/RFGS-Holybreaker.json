@@ -72,7 +72,7 @@
 
 		"levels" : {
 			"base" : {
-				"description" : "{Holy Breaker}\n\nWeaken divine unit(s).",
+				"description" : "{Holy Breaker}\n\nWeakens the selected divine or mythic living creature. Affected creatures: Angels, Archangels, Devils, Arch Devils, Giants, Titans, Cyclopes, Cyclops Kings, Pegasi, Silver Pegasi, Gorgons, Mighty Gorgons, Medusas and Medusa Queens. Reduces health and speed, and makes ranged attacks less effective.",
 				"power" : 10,
 				//				"aiValue":			22,
 				"cost" : 0,
