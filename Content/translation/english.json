@@ -284,7 +284,7 @@
 	"spell.refugee-town.rfgsSiguP.description.basic" : "{Basic Šigû}\n\nReduces the luck and morale of the selected enemy unit by 1.",
 	"spell.refugee-town.rfgsSiguP.description.expert" : "{Expert Šigû}\n\nReduces the luck and morale of all enemy units by 2.",
 	"spell.refugee-town.rfgsSiguP.description.none" : "{Šigû}\n\nReduces the luck and morale of the selected enemy unit by 1.",
-	"spell.refugee-town.rfgsSiguP.name" : "Šigû"
+	"spell.refugee-town.rfgsSiguP.name" : "Šigû",
 	"mod.name" : "Refugee Town (Refuge)",
 	"mod.description" : "Refuge is a new town created by Yuya that takes its inspiration from WoG's Neutral Town and Heroes3's Refugee Camp. The common point of its creatures is their nonbelonging to the other factions. Thus, this castle sports concepts such as nomadism, motley armies and makeshift solutions. The town also takes elements from the Mesopotamian/Sumerian/Akkadian mythologies. Official VCMI Forum https://forum.vcmi.eu/t/new-town-mod-refugee/5002",
 	"mod.alternatemusic.name" : "Refuge alternate music theme",
