@@ -57,7 +57,7 @@
 
 				"tavern" : {
 					"name" : "Tavern",
-					"description" : "The Tavern increases increases morale for troops defending the city.",
+					"description" : "The Tavern increases morale for troops defending the city.",
 					"cost" : {
 						"gold" : 500,
 						"wood" : 5
@@ -229,7 +229,7 @@
 
 				"grail" : {
 					"name" : "Asha statue",
-					"description" : "The presence of the Asha statue increases weekly creature generation by 50%, provides your kindgom with an additional 5000 gold per day and affords 7 mines (for all categories of resources respectively), and increases all four primary skills of a garrison hero by +5 each when defending against a siege. It also increases your heroes movement points over land.",
+					"description" : "The presence of the Asha statue increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, produces additional resources each day, increases all four primary skills of a garrison hero by +5 when defending against a siege, and increases your heroes' movement over land.",
 					"bonuses" : [
 						{
 							"type" : "PRIMARY_SKILL",
@@ -530,7 +530,7 @@
 					"upgrades" : "dwellingLvl2"
 				},
 				"dwellingUpLvl3" : {
-					"description" : "Upg. Camp allows you to recruit Nomads.",
+					"description" : "Upg. Nomad's Camp allows you to recruit Nomads.",
 					"name" : "Upg. Nomad's Camp",
 					"cost" : {
 						"gold" : 1500,
@@ -648,7 +648,7 @@
 					"upgrades" : "dwellingLvl6B"
 				},
 				"dwellingUpLvl7" : {
-					"description" : "Upg. Mercury Lake allows you to recruit Dragolems Upg.",
+					"description" : "Upg. Mercury Lake allows you to recruit Dragolems.",
 					"name" : "Upg. Mercury Lake",
 					"cost" : {
 						"gold" : 15000,

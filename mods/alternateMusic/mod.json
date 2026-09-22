@@ -5,9 +5,12 @@
 	"contact" : "yuya.noboru@gmail.com",
 	"version" : "Same as main mod.",
 	"modType" : "Music",
-
 	"compatibility" : {
 		"min" : "1.4.0"
 	},
-	"keepDisabled" : true
+	"keepDisabled" : true,
+	"czech" : {
+		"name" : "Útočiště – alternativní hudba",
+		"description" : "Nahradí hudební motiv města Útočiště motivem používaným ve verzích 0.1–0.7."
+	}
 }

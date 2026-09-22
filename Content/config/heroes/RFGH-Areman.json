@@ -48,7 +48,7 @@
 			"specialty" : {
 				"name" : "Vagabonds",
 				"tooltip" : "Creature Bonus: Vagabonds",
-				"description" : "Increases the Attack and Defense skills of any Vagabond or Nomad for each level attained after 3th level."
+				"description" : "Increases the Attack and Defense skills of any Vagabond or Nomad for each level attained after 3rd level."
 			}
 		}
 	}

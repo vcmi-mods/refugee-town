@@ -230,6 +230,14 @@
 		]
 	},
 
+	"czech" : {
+		"name" : "Útočiště",
+		"description" : "Útočiště je město vytvořené Yuyou, inspirované neutrálním městem z WoG a tábory uprchlíků z Heroes 3. Jeho jednotky spojuje to, že nepatří k ostatním frakcím. Tento hrad proto pracuje s motivy nomádství, pestrých armád a provizorních řešení. Město čerpá také z mezopotámské, sumerské a akkadské mytologie. Oficiální fórum VCMI https://forum.vcmi.eu/t/new-town-mod-refugee/5002",
+		"translations" : [
+			"translation/czech.json"
+		]
+	},
+
 	"french" : {
 		"name" : "Réfugiés",
 		"description" : "Réfugiés est une ville créée par Yuya qui s'inspire de la ville neutre de WoG, ainsi que des camps de réfugiés d'Heroes 3. Le point commun de ses créatures est leur non-appartenance aux autres factions. Ainsi, ce château arbore des concepts tels que le nomadisme, les armées hétéroclites et les solutions de fortune. La ville reprend également des éléments des mythologies mésopotamiennes, sumériennes et akkadiennes. Forum officiel VCMI https://forum.vcmi.eu/t/new-town-mod-refugee/5002",

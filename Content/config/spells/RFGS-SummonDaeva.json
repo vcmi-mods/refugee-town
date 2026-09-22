@@ -46,7 +46,7 @@
 
 		"levels" : {
 			"base" : {
-				"description" : "{Summon Daeva}\n\nSummons a Daeva to fight on your side on battle field.",
+				"description" : "{Summon Daeva}\n\nSummons a Daeva to fight for your army until the end of combat.",
 				"cost" : 100,
 				"power" : 720,
 				//				"aiValue":				0,

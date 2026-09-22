@@ -5,7 +5,6 @@
 	"contact" : "yuya.noboru@gmail.com",
 	"version" : "1.26",
 	"modType" : "Compatibility",
-
 	"depends" : [
 		"hota",
 		"hota.heroes3DataPatch",
@@ -15,8 +14,11 @@
 		"min" : "1.7.0"
 	},
 	"keepDisabled" : false,
-
 	"spells" : [
 		"RFGS-SteelGolem.json"
-	]
+	],
+	"czech" : {
+		"name" : "Útočiště – podpora HotA",
+		"description" : "Zapni tento submod, pokud hraješ s rozšířením Horn of the Abyss."
+	}
 }

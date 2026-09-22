@@ -63,25 +63,25 @@
 			},
 
 			"none" : {
-				"description" : "{Emet}\n\nSummons Gold Golems to fight on your side on battle field.",
+				"description" : "{Emet}\n\nSummons Gold Golems to fight for your army until the end of combat.",
 				"cost" : 16,
 				"power" : 30
 				//				"aiValue":				10,
 			},
 			"basic" : {
-				"description" : "{Emet}\n\nSummons Gold Golems to fight on your side on battle field.",
+				"description" : "{Basic Emet}\n\nSummons Gold Golems to fight for your army until the end of combat. The number summoned is greater than with unskilled Emet.",
 				"cost" : 16,
 				"power" : 50
 				//				"aiValue":				11,
 			},
 			"advanced" : {
-				"description" : "{Emet}\n\nSummons Gold Golems to fight on your side on battle field.",
+				"description" : "{Advanced Emet}\n\nSummons Gold Golems to fight for your army until the end of combat. The number summoned is greater than with Basic Emet.",
 				"cost" : 16,
 				"power" : 70
 				//				"aiValue":				12,
 			},
 			"expert" : {
-				"description" : "{Emet}\n\nSummons Diamond Golems to fight on your side on battle field.",
+				"description" : "{Expert Emet}\n\nSummons Diamond Golems to fight for your army until the end of combat.",
 				"cost" : 18,
 				"power" : 90,
 				//				"aiValue":				13,

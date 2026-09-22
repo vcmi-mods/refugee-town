@@ -9,8 +9,11 @@
 		"min" : "1.7.0"
 	},
 	"keepDisabled" : false,
-
 	"heroes" : [
 		"RFGH-Bhemnesh.json"
-	]
+	],
+	"czech" : {
+		"name" : "Útočiště – hrdina: Bhemnesh",
+		"description" : "Tento submod zpřístupní Bhemneshe, hrdinu Útočiště se specializací podobnou nekromancii, která oživuje padlé nepřátele jako sešité golemy."
+	}
 }

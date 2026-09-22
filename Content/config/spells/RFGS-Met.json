@@ -65,7 +65,7 @@
 
 		"levels" : {
 			"base" : {
-				"description" : "{Met}\n\nInflicts terrible damage to the targeted golem.",
+				"description" : "{Met}\n\nDestroys 1 creature in the selected golem stack. Affected creatures: Flesh Golems, Stone Golems, Iron Golems, Gold Golems and Diamond Golems.",
 				"cost" : 20,
 				//				"aiValue":				14,
 				"range" : "0",
@@ -82,15 +82,19 @@
 			},
 
 			"none" : {
+				"description" : "{Met}\n\nDestroys 1 creature in the selected golem stack. Affected creatures: Flesh Golems, Stone Golems, Iron Golems, Gold Golems and Diamond Golems.",
 				"power" : 1
 			},
 			"basic" : {
+				"description" : "{Basic Met}\n\nDestroys 1 creature in the selected golem stack. Affected creatures: Flesh Golems, Stone Golems, Iron Golems, Gold Golems and Diamond Golems.",
 				"power" : 1
 			},
 			"advanced" : {
+				"description" : "{Advanced Met}\n\nDestroys 2 creatures in the selected golem stack. Affected creatures: Flesh Golems, Stone Golems, Iron Golems, Gold Golems and Diamond Golems.",
 				"power" : 2
 			},
 			"expert" : {
+				"description" : "{Expert Met}\n\nDestroys 3 creatures in the selected golem stack. Affected creatures: Flesh Golems, Stone Golems, Iron Golems, Gold Golems and Diamond Golems.",
 				"power" : 3
 			}
 		}

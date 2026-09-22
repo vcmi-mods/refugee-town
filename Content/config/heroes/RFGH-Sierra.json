@@ -47,11 +47,11 @@
 
 		"texts" : {
 			"name" : "Sierra",
-			"biography" : "Sierra believes that strength lies in alliances between each individual. She is known to travel from battlefields, tirelessly seeking out allies to join the cause. Her charismatic presence inspires others to embrace her kingdom, uniting diverse individuals under the banner of hope and unity.",
+			"biography" : "Sierra believes that strength lies in alliances among individuals. She is known to travel from battlefield to battlefield, tirelessly seeking allies to join the cause. Her charismatic presence inspires others to embrace her kingdom, uniting diverse peoples under the banner of hope and unity.",
 			"specialty" : {
 				"name" : "Rogues",
-				"tooltip" : "Creature Bonus: Rogues.",
-				"description" : "Increases the Attack and Defense skills of any Rogue or Spy for each level attained after 2th level."
+				"tooltip" : "Creature Bonus: Rogues",
+				"description" : "Increases the Attack and Defense skills of any Rogue or Cutthroat for each level attained after 2nd level."
 			}
 		}
 	}

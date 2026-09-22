@@ -75,15 +75,15 @@
 			},
 
 			"none" : {
-				"description" : "{Nambúrbi}\n\nIncreases selected's unit's luck and morale by 1."
+				"description" : "{Nambúrbi}\n\nIncreases the luck and morale of the selected friendly unit by 1."
 			},
 
 			"basic" : {
-				"description" : "{Nambúrbi}\n\nIncreases selected's unit's luck and morale by 1."
+				"description" : "{Basic Nambúrbi}\n\nIncreases the luck and morale of the selected friendly unit by 1."
 			},
 
 			"advanced" : {
-				"description" : "{Nambúrbi}\n\nIncreases selected's unit's luck and morale by 2.",
+				"description" : "{Advanced Nambúrbi}\n\nIncreases the luck and morale of the selected friendly unit by 2.",
 				"effects" : {
 					"luck" : {
 						"val" : 2
@@ -94,7 +94,7 @@
 				}
 			},
 			"expert" : {
-				"description" : "{Nambúrbi}\n\nIncreases the luck and morale of all friendly units by 2.",
+				"description" : "{Expert Nambúrbi}\n\nIncreases the luck and morale of all friendly units by 2.",
 				"range" : "X",
 				"effects" : {
 					"luck" : {

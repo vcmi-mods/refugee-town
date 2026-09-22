@@ -56,7 +56,7 @@
 			"fearless" : {
 				"type" : "FEARFUL",
 				"valueType" : "INDEPENDENT_MIN",
-				"description" : "PLACEHOLDER",
+				"description" : "Immune to Fear.",
 				"val" : 0
 			},
 			"flying" : {
