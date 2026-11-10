@@ -56,7 +56,8 @@
 				"type" : "TWO_HEX_ATTACK_BREATH"
 			},
 			"fireShield" : {
-				"type" : "FIRE_SHIELD",
+				"type" : "COMBAT_EVENT_TRIGGER",
+				"subtype" : "fireShield",
 				"val" : 30
 			},
 			"immuneToFire" : {

@@ -53,16 +53,21 @@
 				"targetModifier" : {
 					"smart" : true
 				},
-				"effects" : {
-					"luck" : {
-						"type" : "LUCK",
-						"val" : -1,
-						"duration" : "N_TURNS"
-					},
-					"morale" : {
-						"type" : "MORALE",
-						"val" : -1,
-						"duration" : "N_TURNS"
+				"battleEffects" : {
+					"timed" : {
+						"type" : "core:timed",
+						"bonus" : {
+							"luck" : {
+								"type" : "LUCK",
+								"val" : -1,
+								"duration" : "N_TURNS"
+							},
+							"morale" : {
+								"type" : "MORALE",
+								"val" : -1,
+								"duration" : "N_TURNS"
+							}
+						}
 					}
 				}
 			},
@@ -77,12 +82,17 @@
 
 			"advanced" : {
 				"description" : "{Advanced Šigû}\n\nReduces the luck and morale of the selected enemy unit by 2.",
-				"effects" : {
-					"luck" : {
-						"val" : -2
-					},
-					"morale" : {
-						"val" : -2
+				"battleEffects" : {
+					"timed" : {
+						"type" : "core:timed",
+						"bonus" : {
+							"luck" : {
+								"val" : -2
+							},
+							"morale" : {
+								"val" : -2
+							}
+						}
 					}
 				}
 			},
@@ -90,12 +100,17 @@
 			"expert" : {
 				"description" : "{Expert Šigû}\n\nReduces the luck and morale of all enemy units by 2.",
 				"range" : "X",
-				"effects" : {
-					"luck" : {
-						"val" : -2
-					},
-					"morale" : {
-						"val" : -2
+				"battleEffects" : {
+					"timed" : {
+						"type" : "core:timed",
+						"bonus" : {
+							"luck" : {
+								"val" : -2
+							},
+							"morale" : {
+								"val" : -2
+							}
+						}
 					}
 				}
 			}

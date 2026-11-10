@@ -81,63 +81,89 @@
 					"smart" : true
 				},
 
-				"effects" : {
-					"forgetful" : {
-						"type" : "FORGETFULL",
-						"duration" : "N_TURNS",
-						"val" : 2
+				"battleEffects" : {
+					"timed" : {
+						"type" : "core:timed",
+						"bonus" : {
+							"forgetful" : {
+								"type" : "FORGETFULL",
+								"duration" : "N_TURNS",
+								"val" : 100
+							},
+							"stackHealth" : {
+								"type" : "STACK_HEALTH",
+								"duration" : "N_TURNS",
+								"val" : -15,
+								"valueType" : "PERCENT_TO_ALL"
+							}
+						}
 					},
-					"stackHealth" : {
-						"type" : "STACK_HEALTH",
-						"duration" : "N_TURNS",
-						"val" : -15,
-						"valueType" : "PERCENT_TO_ALL"
-					}
-				},
-
-				"cumulativeEffects" : {
-					"stacksSpeed" : {
-						"type" : "STACKS_SPEED",
-						"val" : -15, // "addInfo" : 0,
-						"valueType" : "PERCENT_TO_ALL",
-						"duration" : "N_TURNS"
-					},
-					"stackHealth" : {
-						"type" : "STACK_HEALTH",
-						"val" : -5,
-						"valueType" : "PERCENT_TO_ALL",
-						"duration" : "N_TURNS"
+					"timedCumulative" : {
+						"type" : "core:timed",
+						"cumulative" : true,
+						"bonus" : {
+							"stacksSpeed" : {
+								"type" : "STACKS_SPEED",
+								"val" : -15, // "addInfo" : 0,
+								"valueType" : "PERCENT_TO_ALL",
+								"duration" : "N_TURNS"
+							},
+							"stackHealth" : {
+								"type" : "STACK_HEALTH",
+								"val" : -5,
+								"valueType" : "PERCENT_TO_ALL",
+								"duration" : "N_TURNS"
+							}
+						}
 					}
 				}
 			},
 			"none" : {},
 			"basic" : {
-				"cumulativeEffects" : {
-					"stackHealth" : {
-						"val" : -5
-					},
-					"stacksSpeed" : {
-						"val" : -15
+				"battleEffects" : {
+					"timedCumulative" : {
+						"type" : "core:timed",
+						"cumulative" : true,
+						"bonus" : {
+							"stackHealth" : {
+								"val" : -5
+							},
+							"stacksSpeed" : {
+								"val" : -15
+							}
+						}
 					}
 				}
 			},
 			"advanced" : {
-				"cumulativeEffects" : {
-					"stackHealth" : {
-						"val" : -10
-					},
-					"stacksSpeed" : {
-						"val" : -20
+				"battleEffects" : {
+					"timedCumulative" : {
+						"type" : "core:timed",
+						"cumulative" : true,
+						"bonus" : {
+							"stackHealth" : {
+								"val" : -10
+							},
+							"stacksSpeed" : {
+								"val" : -20
+							}
+						}
 					}
 				}
 			},
 			"expert" : {
-				"cumulativeEffects" : {
-					"stackHealth" : {
-						"val" : -15
-					},
-					"stacksSpeed" : {
-						"val" : -25
+				"battleEffects" : {
+					"timedCumulative" : {
+						"type" : "core:timed",
+						"cumulative" : true,
+						"bonus" : {
+							"stackHealth" : {
+								"val" : -15
+							},
+							"stacksSpeed" : {
+								"val" : -25
+							}
+						}
 					}
 				}
 			}
