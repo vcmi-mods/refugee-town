@@ -1,7 +1,9 @@
 {
 	"refugee" : {
 		"name" : "Refuge",
-		"nativeTerrain" : [ "rough" ],
+		"nativeTerrain" : [
+			"rough"
+		],
 		"alignment" : "neutral",
 		"boat" : "boatCastle",
 		"creatureBackground" : {

@@ -56,7 +56,9 @@
 			"soulSteal" : {
 				"type" : "COMBAT_EVENT_TRIGGER",
 				"subtype" : "soulSteal",
-				"addInfo" : { "permanent" : true },
+				"addInfo" : {
+					"permanent" : true
+				},
 				"val" : 1
 			},
 			"necrolem" : {

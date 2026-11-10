@@ -86,7 +86,9 @@
 			"airShield" : {
 				"type" : "COMBAT_EVENT_TRIGGER",
 				"subtype" : "enchanted",
-				"addInfo" : { "spell" : "airShield" },
+				"addInfo" : {
+					"spell" : "airShield"
+				},
 				"val" : 3
 			}, // "addInfo" : 50},
 
@@ -106,7 +108,10 @@
 			"transmute" : {
 				"type" : "COMBAT_EVENT_TRIGGER",
 				"subtype" : "transmutation",
-				"addInfo" : { "transmuteBy" : "health", "creature" : "peasant" },
+				"addInfo" : {
+					"transmuteBy" : "health",
+					"creature" : "peasant"
+				},
 				"val" : 1
 			},
 			"castWeak" : {
@@ -201,7 +206,9 @@
 			"deathStare" : {
 				"type" : "COMBAT_EVENT_TRIGGER",
 				"subtype" : "deathStare",
-				"addInfo" : { "situation" : "melee" },
+				"addInfo" : {
+					"situation" : "melee"
+				},
 				"val" : 20
 			},
 
