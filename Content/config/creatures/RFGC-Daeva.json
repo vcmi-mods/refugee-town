@@ -79,12 +79,14 @@
 			},
 
 			"fireShield" : {
-				"type" : "FIRE_SHIELD",
+				"type" : "COMBAT_EVENT_TRIGGER",
+				"subtype" : "fireShield",
 				"val" : 50
 			},
 			"airShield" : {
-				"type" : "ENCHANTED",
-				"subtype" : "airShield",
+				"type" : "COMBAT_EVENT_TRIGGER",
+				"subtype" : "enchanted",
+				"addInfo" : { "spell" : "airShield" },
 				"val" : 3
 			}, // "addInfo" : 50},
 
@@ -102,10 +104,10 @@
 			},
 
 			"transmute" : {
-				"type" : "TRANSMUTATION",
-				"subtype" : "transmutationPerHealth",
-				"val" : 1,
-				"addInfo" : "peasant"
+				"type" : "COMBAT_EVENT_TRIGGER",
+				"subtype" : "transmutation",
+				"addInfo" : { "transmuteBy" : "health", "creature" : "peasant" },
+				"val" : 1
 			},
 			"castWeak" : {
 				"type" : "SPELL_AFTER_ATTACK",
@@ -197,8 +199,9 @@
 				"val" : 5
 			},
 			"deathStare" : {
-				"type" : "DEATH_STARE",
-				"subtype" : "deathStareGorgon",
+				"type" : "COMBAT_EVENT_TRIGGER",
+				"subtype" : "deathStare",
+				"addInfo" : { "situation" : "melee" },
 				"val" : 20
 			},
 

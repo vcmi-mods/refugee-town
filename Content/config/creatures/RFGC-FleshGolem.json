@@ -54,8 +54,9 @@
 				"type" : "NON_LIVING"
 			},
 			"soulSteal" : {
-				"type" : "SOUL_STEAL",
-				"subtype" : "soulStealPermanent",
+				"type" : "COMBAT_EVENT_TRIGGER",
+				"subtype" : "soulSteal",
+				"addInfo" : { "permanent" : true },
 				"val" : 1
 			},
 			"necrolem" : {

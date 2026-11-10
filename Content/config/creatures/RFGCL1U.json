@@ -51,8 +51,9 @@
 
 		"abilities" : {
 			"enchantSlayer" : {
-				"type" : "ENCHANTED",
-				"subtype" : "slayer",
+				"type" : "COMBAT_EVENT_TRIGGER",
+				"subtype" : "enchanted",
+				"addInfo" : { "spell" : "slayer" },
 				"val" : 2
 			}
 		}
